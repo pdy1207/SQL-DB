@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110442250/198616113-b4e23e5b-119e-47dd-acce-d7210bc5fc03.png" height="148"></P>
+
 ### SQL?
     SQL은 관계형 데이터베이스 데이터를 관리하기 위한 명령어 혹은 프로그래밍 언어.
     명령어로 데이터를 저장, 삭제, 수정, 조회함.
